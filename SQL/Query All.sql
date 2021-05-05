@@ -1,3 +1,6 @@
+USE XOutputTable
+GO
+
 /*
 SELECT * FROM Links;
 SELECT * FROM Objects;
